@@ -1,0 +1,361 @@
+text,category
+KFC lunch,Food
+chai,Food
+biryani for dinner,Food
+canteen samosa,Food
+burger and fries,Food
+breakfast paratha,Food
+pizza with friends,Food
+groceries from the store,Food
+fruit and vegetables,Food
+ice cream,Food
+juice at the cafe,Food
+chicken karahi,Food
+nihari takeaway,Food
+bakery cake,Food
+tea and biscuits,Food
+lunch at campus cafeteria,Food
+milk and eggs,Food
+shawarma roll,Food
+coffee with classmates,Food
+dinner at restaurant,Food
+snacks from the tuck shop,Food
+halwa puri breakfast,Food
+bought bread and butter,Food
+mcdonalds meal,Food
+rice and daal,Food
+cold drink,Food
+chaat,Food
+sandwich,Food
+pasta at the mall,Food
+bbq night,Food
+fresh lime soda,Food
+dhaba dinner,Food
+yogurt and naan,Food
+cereal for breakfast,Food
+fish and chips,Food
+sehri food,Food
+iftar dates and fruit,Food
+water bottles and juice,Food
+dessert after dinner,Food
+tikka platter,Food
+Uber to campus,Transport
+rickshaw home,Transport
+bus fare,Transport
+petrol for bike,Transport
+careem ride,Transport
+taxi to airport,Transport
+indrive to university,Transport
+motorbike fuel,Transport
+metro bus ticket,Transport
+parking fee,Transport
+van pool monthly,Transport
+toll tax on motorway,Transport
+bike repair and tyre air,Transport
+ride to the mall,Transport
+cab back from dinner,Transport
+fuel for the car,Transport
+chingchi to the market,Transport
+bus pass,Transport
+auto fare to the station,Transport
+train ticket to Lahore,Transport
+petrol pump,Transport
+ride share to class,Transport
+puncture repair,Transport
+oil change for bike,Transport
+rickshaw to the bus stop,Transport
+daily commute fare,Transport
+airport drop off,Transport
+uber back home late night,Transport
+fuel top up,Transport
+car wash and parking,Transport
+bykea delivery ride,Transport
+intercity bus ticket,Transport
+cab to exam centre,Transport
+motorcycle petrol,Transport
+bus to the beach,Transport
+taxi fare,Transport
+ticket for the coach,Transport
+rickshaw to tuition,Transport
+ride to hospital visit,Transport
+carpool share,Transport
+electricity bill,Bills
+mobile top up,Bills
+internet bill,Bills
+gas bill,Bills
+water bill,Bills
+phone package,Bills
+wifi payment,Bills
+k electric payment,Bills
+sui gas charges,Bills
+jazz load,Bills
+zong data package,Bills
+monthly rent,Bills
+hostel dues,Bills
+maintenance charges,Bills
+cable and internet,Bills
+ptcl broadband,Bills
+postpaid mobile bill,Bills
+electricity unit charges,Bills
+society maintenance fee,Bills
+phone recharge,Bills
+data bundle,Bills
+utility bills,Bills
+landline bill,Bills
+telenor package,Bills
+apartment rent share,Bills
+generator fuel charges,Bills
+sim card load,Bills
+bill payment at the bank,Bills
+water tanker,Bills
+gas cylinder refill,Bills
+ufone monthly package,Bills
+nayatel internet,Bills
+house rent,Bills
+cable tv subscription,Bills
+paid the light bill,Bills
+mobile balance,Bills
+hostel mess charges,Bills
+broadband renewal,Bills
+solar bill adjustment,Bills
+internet package renewal,Bills
+new shoes,Shopping
+daraz order,Shopping
+t shirt,Shopping
+jeans from the mall,Shopping
+backpack,Shopping
+sunglasses,Shopping
+perfume,Shopping
+phone cover,Shopping
+earphones,Shopping
+kurta for eid,Shopping
+watch strap,Shopping
+sneakers,Shopping
+wallet,Shopping
+makeup items,Shopping
+bedsheet,Shopping
+clothes from the sale,Shopping
+laptop bag,Shopping
+water bottle,Shopping
+jacket,Shopping
+slippers,Shopping
+hair dryer,Shopping
+gift for a friend,Shopping
+lawn suit,Shopping
+shampoo and soap,Shopping
+power bank,Shopping
+sandals,Shopping
+bracelet,Shopping
+cap and socks,Shopping
+online shopping parcel,Shopping
+room decoration items,Shopping
+umbrella,Shopping
+kitchen mug set,Shopping
+cologne,Shopping
+charger cable,Shopping
+dupatta,Shopping
+formal shirt,Shopping
+phone case and screen guard,Shopping
+mirror for the room,Shopping
+belt,Shopping
+handbag,Shopping
+cinema ticket,Fun
+netflix subscription,Fun
+spotify,Fun
+bowling with friends,Fun
+movie night,Fun
+game top up,Fun
+steam game,Fun
+concert ticket,Fun
+arcade games,Fun
+pubg uc,Fun
+go karting,Fun
+trip to the beach,Fun
+youtube premium,Fun
+paintball,Fun
+board game cafe,Fun
+cricket match tickets,Fun
+picnic at the park,Fun
+birthday party,Fun
+amusement park,Fun
+playstation game,Fun
+hangout at clifton,Fun
+ps plus renewal,Fun
+karaoke night,Fun
+escape room,Fun
+disney plus,Fun
+snooker club,Fun
+fun day out,Fun
+theme park entry,Fun
+football turf booking,Fun
+gaming cafe,Fun
+valorant points,Fun
+movie tickets and popcorn,Fun
+weekend getaway,Fun
+standup comedy show,Fun
+live music night,Fun
+camping trip,Fun
+swimming pool entry,Fun
+billiards,Fun
+amazon prime video,Fun
+roblox robux,Fun
+textbook,Education
+tuition fee,Education
+photocopies,Education
+notebooks and pens,Education
+semester fee,Education
+udemy course,Education
+printing assignment,Education
+exam fee,Education
+stationery,Education
+library fine,Education
+coursera subscription,Education
+lab manual,Education
+calculator,Education
+project poster printing,Education
+online course,Education
+admission form fee,Education
+reference book,Education
+academy fee,Education
+whiteboard markers,Education
+usb for project,Education
+thesis binding,Education
+coaching centre fee,Education
+past papers,Education
+chatgpt plus,Education
+graph paper,Education
+geometry box,Education
+workshop registration,Education
+spiral binding,Education
+society membership fee,Education
+english test fee,Education
+laptop repair for studies,Education
+class notes copies,Education
+folder and files,Education
+lab coat,Education
+a4 paper rim,Education
+ielts preparation book,Education
+cloud storage for project,Education
+online exam registration,Education
+highlighters,Education
+pen and marker set,Education
+lunch with friends,Food
+dinner with family,Food
+breakfast at the canteen,Food
+chai and samosa,Food
+lunch at the food court,Food
+dinner takeaway,Food
+quick lunch,Food
+late night snacks,Food
+tea at the dhaba,Food
+coffee and cake,Food
+family dinner out,Food
+weekly groceries,Food
+lunch combo meal,Food
+burger deal,Food
+pizza slice lunch,Food
+juice and snacks,Food
+kfc dinner,Food
+biryani lunch,Food
+fruit chaat,Food
+breakfast meal,Food
+careem to campus,Transport
+uber to the airport,Transport
+rickshaw to campus,Transport
+rickshaw fare,Transport
+bus ticket,Transport
+petrol for the car,Transport
+bike petrol,Transport
+careem ride home,Transport
+uber ride,Transport
+cab fare to the mall,Transport
+indrive ride,Transport
+taxi ride,Transport
+parking charges,Transport
+motorway toll,Transport
+bus fare to campus,Transport
+fuel for bike,Transport
+ride to university,Transport
+daily rickshaw fare,Transport
+travel ticket,Transport
+metro ticket,Transport
+mobile bill,Bills
+electricity bill payment,Bills
+internet bill payment,Bills
+gas bill payment,Bills
+water bill payment,Bills
+monthly internet package,Bills
+mobile package renewal,Bills
+mobile load,Bills
+phone bill,Bills
+wifi bill,Bills
+rent payment,Bills
+monthly bills,Bills
+utility bill payment,Bills
+data package,Bills
+jazz package,Bills
+zong load,Bills
+monthly mobile package,Bills
+room rent,Bills
+broadband bill,Bills
+paid electricity bill,Bills
+shoes from the mall,Shopping
+shirt from daraz,Shopping
+clothes shopping,Shopping
+shopping at the mall,Shopping
+new jeans,Shopping
+daraz parcel,Shopping
+online order,Shopping
+bag from the market,Shopping
+gift shopping,Shopping
+shoes for eid,Shopping
+clothes for eid,Shopping
+shopping bag,Shopping
+winter jacket,Shopping
+perfume gift,Shopping
+sneakers from daraz,Shopping
+mall shopping,Shopping
+wallet and belt,Shopping
+t shirts,Shopping
+shopping spree,Shopping
+earphones from daraz,Shopping
+movie ticket,Fun
+cinema with friends,Fun
+movie and dinner,Fun
+netflix bill,Fun
+game purchase,Fun
+games with friends,Fun
+trip with friends,Fun
+beach trip,Fun
+birthday party gift,Fun
+concert tickets,Fun
+spotify premium,Fun
+gaming top up,Fun
+bowling night,Fun
+fun with friends,Fun
+cinema tickets,Fun
+steam game purchase,Fun
+youtube premium subscription,Fun
+night out with friends,Fun
+picnic trip,Fun
+pubg game top up,Fun
+semester fee payment,Education
+tuition fee payment,Education
+book from the bookshop,Education
+textbook purchase,Education
+course fee,Education
+online course fee,Education
+udemy course purchase,Education
+exam fee payment,Education
+printing and photocopies,Education
+assignment printing,Education
+notebooks and stationery,Education
+library book,Education
+lab fee,Education
+coursera course,Education
+stationery items,Education
+book purchase,Education
+photocopy of notes,Education
+coaching fee,Education
+university fee,Education
+lab file and pens,Education
