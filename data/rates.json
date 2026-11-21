@@ -1,0 +1,10 @@
+{
+  "fetched_at": "starter file (approximate values, replaced on the first online run)",
+  "base": "USD",
+  "rates": {
+    "PKR": 281.0,
+    "USD": 1.0,
+    "EUR": 0.86,
+    "GBP": 0.75
+  }
+}
